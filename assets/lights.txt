@@ -1,0 +1,9 @@
+# Luz de base de cada angulo de camera (imita a luz pintada no fundo). F9 recarrega.
+# Ajustada medindo o brilho e a cor do fundo em volta dos objetos (etapa 2).
+# Etapa 3: sala escurecida (fundo e luz de base a 70%), para o abajur e a lareira se destacarem.
+# Cor: 2700 K (lampada incandescente amarelada, como em 1996); ambiente meio aquecido.
+# nome  direcao(x y z)  cor(r g b)  ambiente(r g b)  brilho_do_fundo
+cam0  0.20 -1.00 -0.40   1.08 0.71 0.37   0.34 0.28 0.23   0.70
+cam1  0.20 -1.00 0.40   0.75 0.50 0.26   0.24 0.20 0.16   0.70
+cam2  0.20 -1.00 0.40   0.75 0.50 0.26   0.24 0.20 0.16   0.70
+cam3  0.40 -1.00 -0.30   0.94 0.62 0.32   0.30 0.25 0.20   0.70

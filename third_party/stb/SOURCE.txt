@@ -1,0 +1,1 @@
+stb_image.h e stb_image_write.h de https://github.com/nothings/stb commit a7d4c2175630e1ea5b6f8dd00ab96fed0b97b96d (domínio público / MIT)

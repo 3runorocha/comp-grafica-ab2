@@ -1,0 +1,6 @@
+# Zonas de troca de camera (lidas de ROOM70C0.RDT)
+# de para  x1 z1  x2 z2  x3 z3  x4 z4   (cantos do quadrilatero no chao, metros)
+cam0 cam1  -3.990 0.524  -3.990 -0.686  3.819 -0.570  3.876 0.739
+cam1 cam0  -3.990 -0.801  -3.990 -1.939  4.161 -1.940  3.705 -0.744
+cam1 cam3  -3.990 2.965  -3.933 2.109  3.534 1.937  3.013 3.020
+cam3 cam1  3.421 0.852  3.193 1.764  -3.990 1.992  -3.990 0.681

@@ -1,0 +1,11 @@
+# Limites da sala (paredes invisiveis), em metros, no sistema de coordenadas das cameras.
+# Medidos projetando no chao o encontro piso/parede visto nos fundos (principalmente na
+# vista de cima, cam3, que e a mais precisa).
+# xmin xmax zmin zmax altura_do_teto
+-2.91 2.35 -5.50 5.60 3.57
+
+# Moveis do fundo pre-renderizado (nao existem em 3D): caixas que bloqueiam o personagem.
+# box nome xmin xmax zmin zmax altura
+box piano     -2.91 -1.35  5.05  5.60  1.30
+box mesinha    1.30  2.35  4.25  5.60  0.80
+box lareira    1.78  2.35 -0.32  1.50  1.20

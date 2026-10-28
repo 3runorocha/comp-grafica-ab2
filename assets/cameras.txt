@@ -1,0 +1,6 @@
+# Angulos de camera (lidos de ROOM70C0.RDT)
+# nome  fundo  eye.x eye.y eye.z  yaw pitch  fov
+cam0 assets/backgrounds/lesson_cam0.png  -2.533 1.395 2.739  -62.12 0.00  60.20
+cam1 assets/backgrounds/lesson_cam1.png  -2.554 1.395 -3.078  62.01 0.00  60.20
+cam2 assets/backgrounds/lesson_cam2.png  0.483 0.544 3.222  160.94 8.07  60.20
+cam3 assets/backgrounds/lesson_cam3.png  -1.333 4.237 1.518  79.00 -56.37  60.20
